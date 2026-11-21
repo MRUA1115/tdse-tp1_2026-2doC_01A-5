@@ -4,4 +4,4 @@
 ### Responsable de la entrega:
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
-| 112119 | 2026, ZZZ | | Semana 04 |
+| 112119 | Coluzzi, Santino Leonel | 08/09/2026 | Semana 04 |
